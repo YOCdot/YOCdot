@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YOCdot.
+- 👋 Hi, I’m YOC.
 
 - 👀 I’m a graduate student which working on the domain of CV/Deep-Learning.
 
