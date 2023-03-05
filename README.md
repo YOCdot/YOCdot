@@ -3,8 +3,10 @@ YOCdot/YOCdot is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<img style="margin: auto 0; width: 300px" src="./favicon.png">
-
+<div align=center>
+<img width='300' height='300' src="./favicon.png" />
+</div>
+  
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOCdot&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOCdot)](https://github.com/YOCdot/github-readme-stats)
