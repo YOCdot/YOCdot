@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align=center>
-<img width='300' height='300' style="padding-right: 30px" src="./favicon.png" />
+<img width='300' height='300' style="margin-right: 30px" src="./favicon.png" />
 </div>
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOCdot&show_icons=true&theme=tokyonight)
