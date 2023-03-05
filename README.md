@@ -3,7 +3,7 @@ YOCdot/YOCdot is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<img style="margin: 0 auto; width: 100px" src="./favicon.png">
+<img style="margin: auto 0; width: 300px" src="./favicon.png">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOCdot&show_icons=true&theme=tokyonight)
 
