@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 
   <img width='300' height='300' src="./favicon.png" />
 
-  <h1>
+  <span>
     <a href="https://www.iyoc.xyz" target="_blank">@yoc</a>
-  </h1>
+  </span>
   
 </div>
 
