@@ -3,7 +3,7 @@ YOCdot/YOCdot is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<div margin=center style="margin-bottom: 30px">
+<div align=center>
 
   <img width='300' height='300' src="./favicon.png" />
 
