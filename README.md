@@ -12,8 +12,9 @@ You can click the Preview link to take a look at your changes.
   
 </div>
   
+<div>
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOCdot&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOCdot)](https://github.com/YOCdot/github-readme-stats)
-
+</div>
 ### View Counts: ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
